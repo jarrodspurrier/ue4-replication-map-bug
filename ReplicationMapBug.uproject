@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7C609429-41EB-3386-D336-04B6A4AD64F8}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ReplicationMapBug",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		}
+	]
+}
